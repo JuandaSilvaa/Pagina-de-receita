@@ -8,7 +8,7 @@
   <a href="#-visão-geral-do-projeto">Visão Geral do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-estrutura-do-projeto">Estrutura do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-vizualizar">Como Visualizar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-como-visualizar">Como Visualizar</a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -38,6 +38,6 @@ Para visualizar a página em seu navegador, siga estas etapas:
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo `index.html` em um navegador web.
 <br><br>
-- Ou [Acesse o projeto finalizado, online.](https://juandasilvaa.github.io//)
+- Ou [Acesse o projeto finalizado, online.](https://juandasilvaa.github.io/Pagina-de-receita/)
 
 

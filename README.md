@@ -1,4 +1,4 @@
-<h1 align="center"> Página de Receitas </h1>
+<h1 align="center"> Página de Receita </h1>
 
 <p align="center">
 <a href="https://app.rocketseat.com.br/cart/rocketseat-one?referral=juan-almeida-1579997345&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one">Esse projeto foi desenvolvido no curso Full Stack da Rocketseat. Torne-se um aluno Rocket e embarque nessa jornada rumo ao sucesso!</a>
@@ -16,7 +16,7 @@
 
 ## 💻 Visão Geral do Projeto
 
-A página apresenta uma receita detalhada de cupcakes, incluindo a lista de ingredientes, o modo de preparo, o tempo de preparo, o rendimento e o nível de dificuldade.
+A página apresenta uma receita detalhada de cupcakes de café com chantilly, incluindo a lista de ingredientes, o modo de preparo, o tempo de preparo, o rendimento e o nível de dificuldade.
 
 ## 🚀 Tecnologias Utilizadas
 
